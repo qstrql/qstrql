@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Astral ! 
-- 👀 I’m interested in coding (mostly C), video games likes WoW, Epic Seven and Minecraft
+- 👀 I’m interested in coding (mostly C/C++), video games likes WoW, Epic Seven and Minecraft
 - 🌱 I’m currently learning C language @42Angouleme, currently working on pipex !
 - 📫 How to reach me : @Stralou_sg on twitter or qstrql#9939 on discord
 
