@@ -1,11 +1,18 @@
-- 👋 Hi, I’m Astral ! 
-- 👀 I’m interested in coding (mostly Webdev nowadays), video games likes WoW, Epic Seven and Minecraft
-- 🌱 I’m currently learning C language @42Angouleme, currently working on pipex !
-- 📫 How to reach me : @qstrql on most social media
+- 👋 Hi, I’m Astral! Student @42Angouleme
+- 🌐 Portfolio: **[qstrql.github.io](https://qstrql.github.io)**, with a live [push_swap visualiser](https://qstrql.github.io/projects/push_swap.html) running my C code in the browser
+- 🌱 Currently learning **Python**, interested in **AI** and **algorithms**
+- 👀 Also into video games like WoW, Epic Seven and Minecraft
+- 📫 How to reach me: @qstrql on most social media
 
-[![qstrql's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=qstrql&hide=java,html,css&layout=compact&theme=dracula&hide_title=false&])](https://github.com/anuraghazra/github-readme-stats)
-[![qstrql's GitHub stats](https://github-readme-stats.vercel.app/api?username=qstrql&theme=dracula&show_icons=false&hide_rank=true&hide=issues&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-<!---
-qstrql/qstrql is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [ft_linear_regression](https://github.com/qstrql/ft_linear_regression) | Car price prediction with gradient descent, from scratch | Python |
+| [push_swap](https://github.com/ack with a limited set ofoperations ([live demo](https://qstrql.github.io/projects/push_swap.html)) | C |
+| [cub3d](https://github.com/qstrql/cub3d) | Raycasting 3D maze, Wolfenstein-style | C |
+| [pipex](https://github.com/qstrof shell pipes | C |
+| ft_transcendence | Real-time multiplayer Pong web app, team project (source coming soon) | Web |
+
+[![qstrql's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=qstrql&hide=java,html,css&layout=compact&theme=dracula&hide_title=false)](https://github.com/anuraghazra/github-readme-stats)
+[![qstrql's GitHub stats](https://github-readme-stats.vercel.app/api?username=qstrql&theme=dracula&show_icons=false&hide_rank=tru)](https://github.com/anuraghazra/github-readme-stats)  
